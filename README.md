@@ -6,7 +6,7 @@ This repository contains my submission for **Workout Wednesday 2025 | Week 2 | V
 
 ![Dashboard Image](WOW2025Wk2Viz.png)
 
-## :bar-chart: Dashboard Overview
+## :bar_chart: Dashboard Overview
 
 The Tableau Dashbboard Visualizes hourly data points of Glucose readings over a 14-day period with the following features:
 - **Percentile Ranges**:
@@ -24,7 +24,7 @@ The Tableau Dashbboard Visualizes hourly data points of Glucose readings over a 
 
 ### Challenge Criteria:
  - Dashboard size: **1300 x 600**
- - Created on a single sheet in Teableau
+ - Created on a single sheet in Tableau
  - Properly Layered and shaded percentile ranges
  - Reference band for "normal" range with dotted lines
 
@@ -34,5 +34,5 @@ The Tableau Dashbboard Visualizes hourly data points of Glucose readings over a 
 
  ### **Tableau Dashboard**
  The interactive Tableau Dashboard is published on Tableau Public. You can view it here:
- [![Tableau Dashboard Link](tableau icon.png)](https://public.tableau.com/app/profile/harrison.reed8543/viz/WOW2025Week2VisualizingRanges_17374005494500/Sheet1?publish=yes)
+ ![Tableau Dashboard Link](tableau icon.png)[Tableau Dashboard Link](https://public.tableau.com/app/profile/harrison.reed8543/viz/WOW2025Week2VisualizingRanges_17374005494500/Sheet1?publish=yes)
 

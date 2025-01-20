@@ -34,5 +34,8 @@ The Tableau Dashbboard Visualizes hourly data points of Glucose readings over a 
 
  ### **Tableau Dashboard**
  The interactive Tableau Dashboard is published on Tableau Public. You can view it here:
- ![Tableau Dashboard Link](tableau icon.png)[Tableau Dashboard Link](https://public.tableau.com/app/profile/harrison.reed8543/viz/WOW2025Week2VisualizingRanges_17374005494500/Sheet1?publish=yes)
+ [![Tableau Dashboard Link](tableau icon.png)][def]
 
+
+
+[def]: https://public.tableau.com/app/profile/harrison.reed8543/viz/WOW2025Week2VisualizingRanges_17374005494500/Sheet1?publish=yes
